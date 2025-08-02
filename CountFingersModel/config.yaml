@@ -1,0 +1,6 @@
+data:
+  data_path: "data_for_count_model.yaml"
+
+train:
+  epochs: 10
+  
